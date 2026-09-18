@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+}
+
+#heading{
+    background-color: #6943FF;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+button{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: none;
+    color: #6943FF;
+    background-color: white;
+    padding: 10px 15px;
+}
+
+input{
+    width: 100px;
+    height: 80px;
+    background: transparent;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    border: 1px solid #5A537B;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 10px; 
+}
+
+.section {
+    background: white;
+    padding: 5px;
+    color: #6943FF;
+    text-align: center;
+}
